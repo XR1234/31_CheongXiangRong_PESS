@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.topnav
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: aqua;
+}
+
+.topnav a {
+	color: black;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+	font-size: 18px;
+}
+
+.topnav a:hover{
+	background-color: firebrick;
+	color: white;
+}
